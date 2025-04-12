@@ -1,8 +1,4 @@
 
-"""
-Chatbot using LangChain, ChromaDB, and Ollama (LLaMA 3)
-## "interactive_chatbot"
-
 
 ## Description:
 ------------
